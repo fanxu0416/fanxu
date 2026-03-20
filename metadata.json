@@ -1,0 +1,5 @@
+{
+  "name": "SwiftFetch Pro",
+  "description": "SwiftFetch Pro 是一款功能强大的全栈下载工具，支持 HTTP、HTTPS 和 FTP 协议。它具备断点续传、下载队列管理、全局及单任务限速功能，并允许用户通过 File System Access API 自由选择保存路径。",
+  "requestFramePermissions": []
+}
